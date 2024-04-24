@@ -83,6 +83,9 @@ Ubuntu 22.04 운영 체제에 코드 편집기를 설치하려면 터미널에�
 ```
 $ sudo apt update && sudo apt upgrade -y
 ```
+aa
+
+![Pasted image 20231220184515]({{site.baseurl}}/tools/images/Pasted image 20231220184515.png)<br/>
 
 ![[Pasted image 20231220184515.png]]
 
