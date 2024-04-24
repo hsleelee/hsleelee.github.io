@@ -57,7 +57,7 @@ code
 
 VS Code를 처음 시작하면 다음과 같은 창이 나타납니다.
 
-![Pasted image 20231220165413.jpg](./images/Pasted%20image%2020231220165413.jpg)<br/>
+![Pasted image 20231220165413.jpg](./images/Pasted%20image%2020231220165413.jpg) 
 
 이제 새 확장 설치 및 작업 공간 사용자 지정을 시작할 수 있습니다. VS Code에 대한 자세한 내용은 공식 설명서 페이지를 참조하십시오.
 
@@ -84,7 +84,7 @@ Ubuntu 22.04 운영 체제에 코드 편집기를 설치하려면 터미널에�
 $ sudo apt update && sudo apt upgrade -y
 ```
  
-![Pasted image 20231220184515.png](./images/Pasted%20image%2020231220184515.png)<br/>
+![Pasted image 20231220184515.png](./images/Pasted%20image%2020231220184515.png) 
 
 시스템이 업데이트 및 업그레이드되었습니다.
 
@@ -96,7 +96,7 @@ $ sudo apt update && sudo apt upgrade -y
 $ sudo apt install software-properties-common apt-transport-https wget -y
 ```
 
-![Pasted image 20231220184607.png](./images/Pasted%20image%2020231220184607.png)<br/>
+![Pasted image 20231220184607.png](./images/Pasted%20image%2020231220184607.png) 
 
 ## 3단계: 리포지토리 가져오기
 
@@ -122,7 +122,7 @@ $ echo deb [arch=amd64 signed-by=/usr/share/keyrings/vscode.gpg] https://pac
 $ sudo apt update
 ```
 
-![Pasted image 20231220184734.png](./images/Pasted%20image%2020231220184734.png)<br/>
+![Pasted image 20231220184734.png](./images/Pasted%20image%2020231220184734.png) 
 
 시스템이 성공적으로 업데이트되었습니다.
 
@@ -134,7 +134,7 @@ $ sudo apt update
 $ sudo apt install code
 ```
 
-![Pasted image 20231220184833.png](./images/Pasted%20image%2020231220184833.png)<br/>
+![Pasted image 20231220184833.png](./images/Pasted%20image%2020231220184833.png) 
 
  [Visual Studio](https://ko.linux-console.net/?p=15010#) 코드가 Ubuntu 22.04에 성공적으로 설치되었습니다.
 
@@ -154,11 +154,11 @@ $ code &
 
 이 외에도 Ubuntu에서 VS 코드를 시작하려면 애플리케이션 메뉴를 열고 코드를 검색합니다.
 
-![Pasted image 20231220184917.png](./images/Pasted%20image%2020231220184917.png)<br/>
+![Pasted image 20231220184917.png](./images/Pasted%20image%2020231220184917.png) 
 
 이제 아이콘을 클릭하여 앱을 실행합니다.
 
-![Pasted image 20231220184936.png](./images/Pasted%20image%2020231220184936.png)<br/>
+![Pasted image 20231220184936.png](./images/Pasted%20image%2020231220184936.png)
 
 이제 새 파일을 열고 코드 작성을 시작할 수 있습니다.
 
@@ -172,7 +172,7 @@ $ sudo snap install code
 
 **출력**
 
-![Pasted image 20231220185020.png](./images/Pasted%20image%2020231220185020.png)<br/>
+![Pasted image 20231220185020.png](./images/Pasted%20image%2020231220185020.png)
 
 편집기가 성공적으로 설치되었습니다.
 
@@ -182,7 +182,7 @@ Snap은 기본적으로 Ubuntu 22.04에 이미 설치되어 있습니다. 그러
 $ sudo apt install snapd
 ```
 
-![Pasted image 20231220185053.png](./images/Pasted%20image%2020231220185053.png)<br/>
+![Pasted image 20231220185053.png](./images/Pasted%20image%2020231220185053.png)
 
 ## Ubuntu 22.04에서 Visual Studio 코드를 제거하는 방법
 
@@ -192,7 +192,7 @@ $ sudo apt install snapd
 $ sudo apt remove code -y
 ```
 
-![Pasted image 20231220185126.png](./images/Pasted%20image%2020231220185126.png)<br/>
+![Pasted image 20231220185126.png](./images/Pasted%20image%2020231220185126.png)
 
 스냅 저장소에서  [Visual Studio](https://ko.linux-console.net/?p=15010#) Code를 설치한 경우 아래 명령을 실행합니다.
 
@@ -200,7 +200,7 @@ $ sudo apt remove code -y
 $ sudo snap remove code --purge
 ```
 
-![Pasted image 20231220185155.png](./images/Pasted%20image%2020231220185155.png)<br/>
+![Pasted image 20231220185155.png](./images/Pasted%20image%2020231220185155.png)
 
 편집기가 제거되었습니다.
 
